@@ -1,0 +1,49 @@
+.button {
+  background-color: #6a7571; /* Green */
+  border: none;
+  color: white;
+  padding: 50px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+main {
+  margin: 200px
+ ;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+main > h1, p, .browser {
+  margin: 5px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+
+.id{
+  width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
