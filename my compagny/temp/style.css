@@ -1,4 +1,4 @@
-o.button {
+lowo.button {
   background-color: #6a7571; /* Green */
   border: none;
   color: white;
@@ -22,7 +22,7 @@ main > h1, p, .browser {
 }
 
 .browser {
-  background: white;
+  background: yellow;
 }
 
 .browser > h2, p {
