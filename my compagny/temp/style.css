@@ -33,7 +33,7 @@ main > h1, p, .browser {
 }
 
 .browser {
-  background: yellow;
+  background: #0066ff;
 }
 
 .browser > h2, p {
