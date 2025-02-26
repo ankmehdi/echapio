@@ -24,7 +24,7 @@ main {
   margin: 200px
  ;
   padding: 5px;
-  background-color: lightgray;
+  background-color:  rgb(0, 102, 255);
 }
 
 main > h1, p, .browser {
