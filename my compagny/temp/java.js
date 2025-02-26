@@ -29,5 +29,9 @@ function myFunction() {
 
 <button type="button" onclick="myFunction()"> 9</button>
 
+<button type="button" onclick="myFunction()">10</button>
+
+<button type="button" onclick="myFunction()">11</button>
+
 </body>
 </html>
