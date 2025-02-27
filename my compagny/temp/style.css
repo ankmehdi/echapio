@@ -9,12 +9,22 @@
   padding: 5px;
 }
 
+body{
+   
+   background-color:  rgb(231, 235, 17);
+
+
+
+
+}
+
+
 
 main {
   margin: 200px
  ;
   padding: 5px;
-  background-color:  	rgb(204, 224, 255);
+  background-color:  	rgb(221, 156, 17);
 }
 
 main > h1, p, .browser {
@@ -37,15 +47,19 @@ main > h1, p, .browser {
 
 
 .button1 {
-  height: 500px;
-  width: 500px;
+  height: 200px;
+  width: 200px;
   background-color: lightgreen;
 }
 
-
-
-
-
-
+.image {
+  
+   height: 100px;
+   width: 100px;
+   
 
 }
+
+
+
+
