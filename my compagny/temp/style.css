@@ -36,10 +36,10 @@ main > h1, p, .browser {
 }
 
 
-.button1 {
-  height: 100px;
-  width: 200px;
-  background-color: yellow;
+#button1 {
+  height: 500px;
+  width: 500px;
+  background-color: lightgreen;
 }
 
 
@@ -47,7 +47,7 @@ main > h1, p, .browser {
 #button2 {
   height: 100px;
   width: 200px;
-  background-color: yellow;
+  background-color: lightgreen;
 }
 
 
