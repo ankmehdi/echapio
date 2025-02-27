@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<script>
+
 function myFunction() {
   document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
@@ -33,5 +30,4 @@ function myFunction() {
 
 <button type="button" onclick="myFunction()">11</button>
 
-</body>
-</html>
+
