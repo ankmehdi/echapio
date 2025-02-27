@@ -36,10 +36,10 @@ main > h1, p, .browser {
 }
 
 
-button1 {
+.button1 {
   height: 100px;
   width: 200px;
-  background-color: black;
+  background-color: yellow;
 }
 
 
