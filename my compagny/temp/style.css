@@ -36,9 +36,9 @@ main > h1, p, .browser {
 }
 
 
-div button1{
+.button1{
   height: 100px;
-  width: 500px;
+  width: 200px;
   background-color: powderblue;
 }
 
