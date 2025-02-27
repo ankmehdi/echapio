@@ -36,18 +36,13 @@ main > h1, p, .browser {
 }
 
 
-#button1 {
+.button1 {
   height: 500px;
   width: 500px;
   background-color: lightgreen;
 }
 
 
-#button2 {
-  height: 500px;
-  width: 500px;
-  background-color: lightgreen;
-}
 
 
 
