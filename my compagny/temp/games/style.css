@@ -1,0 +1,65 @@
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color:  rgb(0, 102, 255);
+}
+
+.all-browsers {
+  margin: 10px;
+  padding: 5px;
+}
+
+body{
+   
+   background-color:  rgb(231, 235, 17);
+
+
+
+
+}
+
+
+
+main {
+  margin: 200px
+ ;
+  padding: 5px;
+  background-color:  	rgb(221, 156, 17);
+}
+
+main > h1, p, .browser {
+  margin: 5px;
+  padding: 5px;
+}
+
+.browser {
+  background: #0066ff;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+
+.id{
+  width: 50px;
+}
+
+
+.button1 {
+  height: 200px;
+  width: 200px;
+  background-color: lightgreen;
+}
+
+.image {
+  
+   height: 100px;
+   width: 100px;
+   
+
+}
+
+
+
+
